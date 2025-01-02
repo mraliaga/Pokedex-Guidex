@@ -18,5 +18,3 @@ Bu proje, Pokémon karakterlerini detaylı bir şekilde gösteren modern bir web
 ## Ekran Görüntüsü
 
 ![](./record.gif)
-
-Yukarıdaki metni, paylaşmak istediğiniz projenize uyarlayabilirsiniz. Eğer bir ekleme veya çıkarma yapmak isterseniz, belirtmeniz yeterli!
